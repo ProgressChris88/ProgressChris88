@@ -4,7 +4,7 @@ I'm a Junior Web Developer that has studied HTML, CSS, JavaScript, and Ruby.
 
 I'm currently learning JavaScript through the Odin Project and continuing my studies with Le Wagon as well.
 
-With my team, I helped create [TellUs](https://tellus-tokyo-55aec3067fcb.herokuapp.com/), which was built on Ruby on Rails and uses Newsdata.io API to allow users to easily track news around the world.
+With my team, I helped create [TellUs](https://tell-us-news-21853bdf0509.herokuapp.com/), which was built on Ruby on Rails and uses Newsdata.io API to allow users to easily track news around the world.
 
 Feel free to reach out to me if you would like to collaborate and learn together!
 <!--
