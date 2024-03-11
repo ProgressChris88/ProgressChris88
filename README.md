@@ -1,12 +1,13 @@
 # Hello everyone!
 
-I'm a Junior Web Developer that has studied HTML, CSS, JavaScript, and Ruby.
+I'm a Junior Web Developer recently graduated from Le Wagon. I really enjoy studying JavaScript and I have a passion for storytelling and helping communication between others. When I am not studying coding, I am studying Japanese in an all immersion based approach. Contact me if you want to know how I reacheI JLPT N2 barely opening any Japanese Language textbooks.
 
-I'm currently learning JavaScript through the Odin Project and continuing my studies with Le Wagon as well.
+With my team, I helped create [TellUs](https://tell-us-news-21853bdf0509.herokuapp.com/), which was built on Ruby on Rails and uses Newsdata.io API to allow users to easily track news around the world. The most fun part for me was learning about APIs and eventually creating my own API.
 
-With my team, I helped create [TellUs](https://tell-us-news-21853bdf0509.herokuapp.com/), which was built on Ruby on Rails and uses Newsdata.io API to allow users to easily track news around the world.
+Feel free to reach out to me if you would like to collaborate or just have a chat together.
 
-Feel free to reach out to me if you would like to collaborate and learn together!
+日本語でもOKです！
+
 <!--
 **ProgressChris88/ProgressChris88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
