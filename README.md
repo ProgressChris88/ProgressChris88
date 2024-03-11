@@ -1,6 +1,6 @@
 # Hello everyone!
 
-I'm a Junior Web Developer recently graduated from Le Wagon. I really enjoy studying JavaScript and I have a passion for storytelling and helping communication between others. When I am not studying coding, I am studying Japanese in an all immersion based approach. Contact me if you want to know how I reacheI JLPT N2 barely opening any Japanese Language textbooks.
+I'm a Junior Web Developer recently graduated from Le Wagon. I really enjoy studying JavaScript and I have a passion for storytelling and helping communication between others. When I am not studying coding, I am studying Japanese in an all immersion based approach. Contact me if you want to know how I reached JLPT N2 barely opening any Japanese Language textbooks.
 
 With my team, I helped create [TellUs](https://tell-us-news-21853bdf0509.herokuapp.com/), which was built on Ruby on Rails and uses Newsdata.io API to allow users to easily track news around the world. The most fun part for me was learning about APIs and eventually creating my own API.
 
