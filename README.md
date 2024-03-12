@@ -4,6 +4,8 @@ I'm a Junior Web Developer recently graduated from Le Wagon. I really enjoy stud
 
 With my team, I helped create [TellUs](https://tell-us-news-21853bdf0509.herokuapp.com/), which was built on Ruby on Rails and uses Newsdata.io API to allow users to easily track news around the world. The most fun part for me was learning about APIs and eventually creating my own API.
 
+Together with my team, we also created a fun Airbnb Application [To Infinity](https://to-infinity-and-beyond-1994-5c8e827d2425.herokuapp.com/), that takes the daring idea of renting your very own jetpack.
+
 Feel free to reach out to me if you would like to collaborate or just have a chat together.
 
 日本語でもOKです！
