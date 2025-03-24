@@ -12,6 +12,10 @@
 
 <a href="https://findadoc.jp">Find A Doc JP</a>
 
+** 勉強中　**
+
+<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat-square&logo=php" />
+
 <!--
 **ProgressChris88/ProgressChris88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
